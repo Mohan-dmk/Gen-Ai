@@ -67,7 +67,3 @@ A function is a named block of code that performs a specific task. You can call 
 def function_name(parameters):
     # code block
     return result
-
-
-
- 
