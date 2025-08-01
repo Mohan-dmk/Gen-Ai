@@ -1,0 +1,10 @@
+# Ignore large vector/model/data files
+*.lib
+*.dll
+*.pyd
+*.exe
+*.csv
+*.txt
+
+# But if you want to keep some .csv/.txt tracked, 
+# manually remove those lines after this process.
